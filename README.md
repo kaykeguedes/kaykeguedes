@@ -1,7 +1,5 @@
 ### Olá, sou o Kayke! 👋
 
-- 🔭 Estudando Sistemas para Internet
-
  <div>
   <a href="https://github.com/kaykeguedes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaykeguedes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
